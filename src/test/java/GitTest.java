@@ -9,5 +9,6 @@ public class GitTest {
     public void TestOne(){
         driver.get("google.com");
         driver.findElement(By.xpath("//locator"));
+        driver.findElement(By.xpath(""));
     }
 }
