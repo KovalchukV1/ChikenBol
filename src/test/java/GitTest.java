@@ -6,6 +6,7 @@ public class GitTest {
 
     @Test
     public void TestOne(){
+        driver.get("google.com");
 
     }
 }
